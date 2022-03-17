@@ -1,0 +1,14 @@
+# TotoroSwap 交易所
+
+## 什么是TotoroSwap
+
+TotoroSwap是Eos生态上最新的高收益Swap平台，TotoroSwap将搭载CrossLand跨链桥，在给多链用户极致的跨链体验的同时，提供一整套的Defi生态服务。通过TotoroSwap可以实现资产的跨链，在跨链之后的资产可以在TotoroSwap购买IFT，参与Infinity的金融盛宴。跨链资产也可以选择在TotoroSwap中做市，享受Eos生态中所有Defi平台最高的做市年化收益。TotoroSwap前期做市可以享受到IFT代币收益，获取到的IFT代币又可以进入到Infinity中进入质押，享受双重收益。
+
+TotoroSwap打造EOS生态中超一流做市收益平台。同时也是EOS生态中Swap平台中自有流动性的探索先锋，与Infinity合作联合，通过债券系统，锁定IFT交易对流动性，同时也提高Infinity金库资产利用效率，将EOS和USDT资产在TotoroSwap中添加流动性，获取做市收益。与Infinity强强联手，不断建立自有流动性，这将成为TotoroSwap最强的护城河。
+
+未来TotoroSwap还将与Infinity联手推出BoondFarm（债券农场），为所有EOS生态项目提供搭建债券系统，第三方项目可以通过Infinity的BoondFarm（债券农场）让自己的项目代币奖励给愿意出售流动性的用户，让所有第三方项目的流动性不断的扩展加深，让所有通过BoondFarm（债券农场）建立奖励机制的项目都能够有更长远的发展。而与此同时，TotoroSwap将锁定这些通过BoondFarm（债券农场）建立起来的永久流动性，在建立起护城河的同时，成为流动性获利者之一。
+
+TotoroSwap由Infinity平台孵化开发。TotoroSwap中所有的业务收入20%将会用于回购销毁IFT代币，极致的通缩，极致的增值，让IFT拥有无限可能！\
+
+
+![ TotoroSwap 测试图片 以上线为准](<../.gitbook/assets/image (4).png>)
